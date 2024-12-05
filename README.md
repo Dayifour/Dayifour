@@ -18,9 +18,9 @@ Open-source projects that involve React, TypeScript, or Next.js, particularly th
 - Starting with **Next.js** and building scalable apps.  
 
 ### 📫 How to reach me  
-- **Email**: [your-email@example.com](mailto:sekoudayifourouk@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sekou-dayifourou-keita)  
-- **Portfolio**: [Your Website](https://dayif-portfolio.vercel.app/)  
+- **Email**: [My Email](mailto:sekoudayifourouk@gmail.com)  
+- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/sekou-dayifourou-keita)  
+- **Portfolio**: [My Portfolio]([https://your-website.com](https://dayif-portfolio.vercel.app/))
 
 ### 😄 Pronouns  
 He/Him  
