@@ -20,7 +20,7 @@ Open-source projects that involve React, TypeScript, or Next.js, particularly th
 ### 📫 How to reach me  
 - **Email**: [your-email@example.com](mailto:sekoudayifourouk@gmail.com)  
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/sekou-dayifourou-keita)  
-- **Portfolio**: [Your Website]([https://your-website.com](https://dayif-portfolio.vercel.app/))  
+- **Portfolio**: [Your Website](https://dayif-portfolio.vercel.app/)  
 
 ### 😄 Pronouns  
 He/Him  
