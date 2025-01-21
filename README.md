@@ -1,29 +1,26 @@
-## Hi there 👋
+# 💻 Sekou Dayifourou Keita  
 
-I'm a passionate front-end developer specializing in **TypeScript** and **React**, with a keen interest in building scalable, high-performance web applications. 🚀  
+### About Me  
+I am a passionate **full-stack developer** with expertise in building scalable and user-friendly applications. I focus on creating impactful projects and continuously honing my skills in modern web technologies.  
 
-### 🌱 Currently learning  
-I'm diving deep into **Next.js**, focusing on server-side rendering, static site generation, and building modern web apps.  
+### 🚀 Current Project  
+- **E-learning Platform (Sensei)**: Developing a feature-rich platform enabling user registration, course creation, chapter-based learning, quizzes, and forums while following SOLID principles.  
 
-### 🔭 Currently working on  
-- **Sensei**: An e-learning platform with features like course management, forums, and progress tracking.  
-- Personal projects that explore advanced TypeScript patterns and Next.js features.  
+### 🛠️ Skills  
+- **Frontend**: Angular, React.js, Next.js, JavaScript, TypeScript  
+- **Backend**: Spring Boot, Node.js, RESTful APIs  
+- **Database**: MySQL, PostgreSQL, MongoDB  
+- **Other Tools**: Git, GitHub, JetBrains IDEs  
 
-### 👯 Looking to collaborate on  
-Open-source projects that involve React, TypeScript, or Next.js, particularly those focused on education, productivity, or developer tools.  
-
-### 💬 Ask me about  
-- Front-end development with **React** and **TypeScript**.  
-- Optimizing performance in web applications.  
-- Starting with **Next.js** and building scalable apps.  
+### 🎯 Goals  
+I work hard to make life easier for people through technology and innovative solutions.  
 
 ### 📫 How to reach me  
 - **Email**: [My Email](mailto:sekoudayifourouk@gmail.com)  
-- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/sekou-dayifourou-keita)  
-- **Portfolio**: [My Portfolio](https://dayif-portfolio.vercel.app/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/sekou-dayifourou-keita)  
+- **Portfolio**: [My Portfolio](https://dayif-portfolio.vercel.app/)  
 
-### 😄 Pronouns  
-He/Him  
-
-### ⚡ Fun fact  
-I enjoy solving complex problems by breaking them down into simple, reusable components—both in code and in life!  
+### 💡 Interests  
+- **Technology Trends**: Staying updated on cutting-edge frameworks and tools.  
+- **Premier League**: Following matches and analyzing team performances.  
+- **History**: Exploring topics like ancient Egypt and the works of Aristotle.  
