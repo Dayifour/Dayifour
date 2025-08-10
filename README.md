@@ -1,31 +1,32 @@
-# ⚡ Sekou Dayifourou Keita — Code, Passion & Revolution  
+# Sekou Dayifourou Keita AKA *Manager Dayif*
 
-### 🚀 Who Am I?  
-I don't just code—I craft experiences, disrupt norms, and build the future. Every project is a love letter to innovation, a challenge to the impossible. 💙🔥  
+## Who I Am
+I am a developer from Mali who treats software as both craft and strategy.  
+Each project is more than code — it’s a calculated move, built to endure, designed to influence.  
+I value precision, scalability, and purpose over trends and noise.  
 
-### 🔥 What’s Cooking?  
-- **Sensei - Reinventing Learning** 🎓💡  
-  A next-level e-learning platform designed to make knowledge flow effortlessly. Powered by **Spring Boot, Angular & Next.js**.  
-- **Digital Playground** 🎨⚡  
-  My lab of crazy ideas—where Next.js & Tailwind meet creativity.  
+## Current Focus
+- **Sensei** — An e-learning platform reshaping how knowledge flows. Powered by **Spring Boot, Angular, Next.js**.  
+- **Concept Lab** — My private ground for experiments, blending **Next.js** and **Tailwind CSS** into bold prototypes.  
 
-### 🛠️ Tech Arsenal  
-- **Frontend**: React.js | Next.js | Angular | TypeScript  
-- **Backend**: Spring Boot | Node.js | REST APIs  
-- **Databases**: MySQL | PostgreSQL | MongoDB  
-- **Other Weapons**: Git | GitHub | Tailwind CSS  
+## Technical Arsenal
+**Frontend**: React, Next.js, TypeScript  
+**Backend**: Express.js, Node.js, PHP REST APIs  
+**Databases**: MySQL, PostgreSQL, MongoDB  
+**Workflow**: Git, GitHub, Tailwind CSS  
 
-### 🎯 My Code, My Philosophy  
-I build with heart, think with logic, and move with purpose. **Code should empower, not complicate**. The goal? **To create, inspire, and leave a mark.**  
+## Philosophy 
+My aim is clarity over clutter, elegance over excess, and results over excuses.  
+Every product I build is meant to solve, to inspire, and to last.  
 
-### 🌍 Let’s Connect  
-- **Email**: [📩 Let’s Talk](mailto:sekoudayifourouk@gmail.com)  
-- **LinkedIn**: [🔗 Let’s Network](https://www.linkedin.com/in/sekou-dayifourou-keita)  
-- **Portfolio**: [🌍 Explore My Work](https://dayif-portfolio.vercel.app/)  
+## Beyond Code
+- Student of history to sharpen foresight.  
+- Strategic thinker — I see football like chess.  
+- Innovator who chases the wave only to lead it.  
 
-### 🎮 Beyond the Screen  
-- **Strategic Mind**: I see football like chess. ⚽♟️  
-- **History Buff**: Ancient Egypt, Aristotle—wisdom fuels me. 📜✨  
-- **Tech Visionary**: Always on the hunt for the next big thing. 🚀  
+## Connect
+- **Email**: [sekoudayifourouk@gmail.com](mailto:sekoudayifourouk@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/sekou-dayifourou-keita](https://www.linkedin.com/in/sekou-dayifourou-keita)  
+- **Portfolio**: [dayif-portfolio.vercel.app](https://dayif-portfolio.vercel.app/)  
 
-> “Write code. Change lives. Leave a legacy.” 🌟  
+> *"Power belongs to those who see the code not for what it is, but for what it makes possible."*
