@@ -26,7 +26,7 @@ Every product I build is meant to solve, to inspire, and to last.
 
 ## Connect
 - **Email**: [sekoudayifourouk@gmail.com](mailto:sekoudayifourouk@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/sekou-dayifourou-keita](https://www.linkedin.com/in/sekou-dayifourou-keita)  
+- **LinkedIn**: [linkedin.com/in/sekou-dayifourou-keita](www.linkedin.com/in/dayifour)  
 - **Portfolio**: [dayif-portfolio.vercel.app](https://dayif-portfolio.vercel.app/)  
 
 > *"Power belongs to those who see the code not for what it is, but for what it makes possible."*
