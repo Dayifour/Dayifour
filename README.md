@@ -8,7 +8,7 @@ I build scalable web applications and robust backend architectures. Focused on p
 ### 🌍 Open Source Contributions
 *I actively contribute to global tools, focusing on accessibility, core logic, and DX.*
 
-* <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" height="16" alt="npm logo" /> **[npmx.dev](https://github.com/npmx-dev/npmx.dev) (A11y & UX):** Refactored complex UI components to meet **WAI-ARIA** standards. Implemented roving tabindex and keyboard navigation.
+* <img src="[https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg](https://avatars.githubusercontent.com/u/257109910?s=200&v=4)" height="16" alt="npm logo" /> **[npmx.dev](https://github.com/npmx-dev/npmx.dev) (A11y & UX):** Refactored complex UI components to meet **WAI-ARIA** standards. Implemented roving tabindex and keyboard navigation.
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="18" alt="rust logo" /> **[iii-hq/iii](https://github.com/iii-hq/iii) (Core Logic):** Engineered state and stream guard helpers within the **motia-js** framework. Added robust unit testing for event-driven architectures.
 * <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="18" alt="cloudflare logo" /> **[cloudflare/vinext](https://github.com/cloudflare/vinext):** Aligned Route Handler behaviors with Next.js standards, optimizing HTTP method handling and OPTIONS auto-responses.
 
