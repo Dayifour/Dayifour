@@ -8,19 +8,22 @@ I build scalable web applications and robust backend architectures. Focused on p
 ### 🌍 Open Source Contributions
 *I actively contribute to global tools, focusing on accessibility, core logic, and DX.*
 
-* ![npm](https://img.shields.io/badge/npmx.dev-CB3837?style=flat&logo=npm&logoColor=white) **[npmx.dev](https://github.com/npmx-dev/npmx.dev) (A11y & UX):** Refactored complex UI components to meet **WAI-ARIA** standards. Implemented roving tabindex and keyboard navigation.
-* ![Rust](https://img.shields.io/badge/iii--hq-black?style=flat&logo=rust&logoColor=white) **[iii-hq/iii](https://github.com/iii-hq/iii) (Core Logic):** Engineered state and stream guard helpers within the **motia-js** framework. Added robust unit testing for event-driven architectures.
-* ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) **[cloudflare/vinext](https://github.com/cloudflare/vinext):** Aligned Route Handler behaviors with Next.js standards, optimizing HTTP method handling.
+* <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.svg" height="16" alt="npm logo" /> **[npmx.dev](https://github.com/npmx-dev/npmx.dev) (A11y & UX):** Refactored complex UI components to meet **WAI-ARIA** standards. Implemented roving tabindex and keyboard navigation.
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="18" alt="rust logo" /> **[iii-hq/iii](https://github.com/iii-hq/iii) (Core Logic):** Engineered state and stream guard helpers within the **motia-js** framework. Added robust unit testing for event-driven architectures.
+* <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="18" alt="cloudflare logo" /> **[cloudflare/vinext](https://github.com/cloudflare/vinext):** Aligned Route Handler behaviors with Next.js standards, optimizing HTTP method handling and OPTIONS auto-responses.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & Frontend** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+**Languages & Frontend**
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind" height="35" />
 
-**Backend & Databases** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,postgres,redis" height="35" />
 
-**DevOps & Tools** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,cloudflare,vercel" height="35" />
 
 ---
 
@@ -34,7 +37,17 @@ I build scalable web applications and robust backend architectures. Focused on p
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayifour) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://dayif-portfolio.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sekoudayifourouk@gmail.com)
+<a href="https://linkedin.com/in/dayifour">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+</a>
+<a href="https://dayif-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+</a>
+<a href="mailto:sekoudayifourouk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+</a>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Dayifour&label=Profile%20Views&countColor=%23263238&style=flat-square)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Dayifour&label=Profile%20Views&countColor=%23263238&style=flat-square" />
+</p>
