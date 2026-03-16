@@ -39,3 +39,5 @@ I build scalable web applications and robust backend architectures. Focused on p
 
 ---
 *Engineering solutions with precision and scalability.*
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Dayifour&label=Profile%20Views&countColor=%23263238&style=flat)
