@@ -1,32 +1,39 @@
-# Sekou Dayifourou Keita AKA *Manager Dayif*
+# Sékou Dayifourou KEITA
+**Full-Stack Software Engineer | TypeScript & Backend Systems**
 
-## Who I Am
-I am a developer from Mali who treats software as both craft and strategy.  
-Each project is more than code — it’s a calculated move, built to endure, designed to influence.  
-I value precision, scalability, and purpose over trends and noise.  
+I build scalable web applications and robust backend architectures. Focused on performance, type safety, and efficient developer workflows.
 
-## Current Focus
-- **Sensei** — An e-learning platform reshaping how knowledge flows. Powered by **Spring Boot, Angular, Next.js**.  
-- **Concept Lab** — My private ground for experiments, blending **Next.js** and **Tailwind CSS** into bold prototypes.  
+---
 
-## Technical Arsenal
-**Frontend**: React, Next.js, TypeScript  
-**Backend**: Express.js, Node.js, PHP REST APIs  
-**Databases**: MySQL, PostgreSQL, MongoDB  
-**Workflow**: Git, GitHub, Tailwind CSS  
+### 🛠 Tech Stack
 
-## Philosophy 
-My aim is clarity over clutter, elegance over excess, and results over excuses.  
-Every product I build is meant to solve, to inspire, and to last.  
+* **Languages:** TypeScript, JavaScript, Go (Learning), SQL.
+* **Frontend:** Next.js, React, Tailwind CSS, TanStack Query.
+* **Backend:** Node.js, Nest.js (Microservices), Spring Boot, PostgreSQL, Redis.
+* **DevOps & Infrastructure:** Docker, Docker Compose, GitHub Actions, Linux (VPS), Cloudflare.
 
-## Beyond Code
-- Student of history to sharpen foresight.  
-- Strategic thinker — I see football like chess.  
-- Innovator who chases the wave only to lead it.  
+---
 
-## Connect
-- **Email**: [sekoudayifourouk@gmail.com](mailto:sekoudayifourouk@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/dayifour](www.linkedin.com/in/dayifour)  
-- **Portfolio**: [dayif-portfolio.vercel.app](https://dayif-portfolio.vercel.app/)  
+### 🌟 Open Source & Impact
 
-> *"Power belongs to those who see the code not for what it is, but for what it makes possible."*
+I actively contribute to the ecosystem to improve web standards and developer experience:
+
+
+---
+
+### 📈 Core Competencies
+
+* **Architecture:** Building event-driven microservices and RESTful APIs.
+* **Performance:** Optimizing Next.js applications for Core Web Vitals and SEO.
+* **Reliability:** Implementing strict TypeScript patterns and containerized environments for consistent deployments.
+
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/dayifour](https://linkedin.com/in/dayifour)
+* **Portfolio:** [dayif-portfolio.vercel.app](https://dayif-portfolio.vercel.app/)
+* **Email:** sekoudayifourouk@gmail.com
+
+---
+*Engineering solutions with precision and scalability.*
