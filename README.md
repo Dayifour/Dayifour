@@ -40,7 +40,7 @@ I build scalable web applications and robust backend architectures. Focused on p
 <a href="https://linkedin.com/in/dayifour">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
 </a>
-<a href="https://dayif-portfolio.vercel.app/">
+<a href="https://www.dayifour.dev/">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
 </a>
 <a href="mailto:sekoudayifourouk@gmail.com">
